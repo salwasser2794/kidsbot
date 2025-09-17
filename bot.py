@@ -47,7 +47,7 @@ def days_menu():
     ])
 
 # === Настройка бота ===
-API_TOKEN = "YOUR_BOT_TOKEN"
+API_TOKEN = "7174011610:AAGGjDniBS_D1HE_aGSxPA9M6mrGCZOeqNM"
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
 
